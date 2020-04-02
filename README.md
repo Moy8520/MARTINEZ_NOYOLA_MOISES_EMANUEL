@@ -1,2 +1,3 @@
 # MARTINEZ_NOYOLA_MOISES_EMANUEL
-Portafolio de evidencias de cinemática de robots
+Link de YOUTUBE
+https://youtu.be/niS9hOmp1Oo
